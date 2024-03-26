@@ -1,4 +1,5 @@
 export type User = {
+    Id: Number,
     Name: String,
     EmailId : String
 }
